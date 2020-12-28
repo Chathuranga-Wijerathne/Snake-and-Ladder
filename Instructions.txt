@@ -1,0 +1,61 @@
+
+		👉🏻      Snakes and Ladders     👈🏻
+
+Instructions :
+[Multiplayer Snakes & Ladders (At least two people)]
+
+     The game Snakes and Ladders has enthralled generations of children, and gone through a few name 
+     changes along the way. Sometimes sold as Chutes and Ladders in the United States, and originally 
+     Snakes and Arrows in India, the game has barely changed in all this time. If you've lost the rules or 
+     you've made your own Snakes and Ladders mat, you may want to review the rules before you play or 
+     perhaps try a variation on the traditional rules.
+
+1
+   Understand the object of the game. The object of the game is to be the first player to reach the end by moving 
+   across the mat from square one to the final square. Most mats wrap back and forth, so you move left to right 
+   across first row, then move up to the second and move right to left, and so on. Follow the numbers on the mat 
+   to see how to move forward. For example, if you rolled a five and you were on space number 11, then you 
+   would move your game piece to space number 16.
+
+ 2
+   Decide who goes first. Each player should roll one die to see who gets the highest number. Whoever rolls the 
+   highest number gets to take the first turn. After the first player takes a turn, the person sitting to that player’s 
+   left will take a turn. Play continues in a circle going left. If two or more people roll the same number, and it is 
+   the highest number rolled, each of those people roll the die an additional time to see who gets to go first.
+
+3
+   Roll the die and move. To take your turn, roll the die again and read the number that you rolled. Pick up your 
+   game piece and move forward that number of spaces. For example, if you roll a two, move your piece to square 
+   two. On your next turn, if you roll a five, move your piece forward five squares, ending up on square seven. 
+   Some people play that you can only move onto the mat if you roll a one, and if you don't get a one, you just skip 
+   your turn. This isn't recommended, since this can be frustrating for unlucky players.
+
+ 4
+   Climb up ladders. The ladders on the game mat allow you to move upwards and get ahead faster. If you land 
+   exactly on a square that shows an image of the bottom of a ladder, then you may move your game piece all the 
+   way up to the square at the top of the ladder. If you land at the top of a ladder or somewhere in the middle of a 
+   ladder, just stay put. You never move down ladders.
+
+5
+   Slide down snakes or chutes. Some versions have snakes on the mat, while others have chutes (slides). Snakes
+   (or chutes) move you back on the mat because you have to slide down them. If you land exactly at the top of a 
+   snake or chute, slide your game piece all the way to the square at the bottom of the snake or chute. If you land 
+   on a square that is in the middle or at the bottom of a snake (or chute), just stay put. You only slide down if you 
+   land on the top square of a snake (or chute).
+
+6
+   Take an extra turn if you roll a six. If you roll a six, then you get an extra turn. First, move your piece forward 
+   six squares and then roll the die again. If you land on any snakes or ladders, follow the instructions above to 
+   move up or down and then roll again to take your extra turn. As long as you keep rolling sixes, you can keep 
+   moving!
+
+7
+   Land exactly on the last square to win. The first person to reach the highest square on the mat wins, usually 
+   square 100. But there's a twist! If you roll too high, your piece "bounces" off the last square and moves back. 
+   You can only win by rolling the exact number needed to land on the last square. For example, if you are on 
+   square 99 and roll a four, move your game piece to 100 (one move), then "bounce" back to 99, 98, 97 
+   (two, three, then four moves.) If square 97 is a ladder base or snake head, climb or slide as usual.
+
+
+			Let's Play " Snakes and Ladders......."
+
